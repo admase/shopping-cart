@@ -7,7 +7,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-
-# "homepage": "http://admase.github.io/shopping-cart",
-# "predeploy": "npm run build",
-# "deploy": "gh-pages -d build",
